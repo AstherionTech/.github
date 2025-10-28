@@ -3,7 +3,7 @@
 > *Built for the body. Designed for the stars.*
 
 Astherion Tech is the engineering division of **Astherion, Inc.**, pioneering the fusion of **luxury fashion** and **biometric intelligence**.  
-We design wearable systems that sense, learn, and adapt — transforming apparel into living technology.
+We design wearable systems that sense, learn, and adapt. We transform apparel into living technology.
 
 ---
 
@@ -17,7 +17,7 @@ We design wearable systems that sense, learn, and adapt — transforming apparel
 
 ### 🧠 Our Mission
 To engineer a new class of apparel that merges **form, function, and physiological awareness.**  
-Astherion exists to bring humanity closer to its cosmic origin — *we are the universe made conscious.*
+Astherion exists to bring humanity closer to its cosmic origin *we are the universe made conscious.*
 
 ---
 
@@ -47,5 +47,5 @@ Astherion exists to bring humanity closer to its cosmic origin — *we are the u
 
 ---
 
-> **Astherion Tech** — *Precision, design, and consciousness in motion.*
+> **Astherion Tech**  *Precision, design, and consciousness in motion.*
 
